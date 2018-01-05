@@ -1,0 +1,13 @@
+{
+    "name": "vagrant/bracket-validator-cli",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vaulin Aleksandr",
+            "email": "vauulin@gmail.com"
+        }
+    ],
+    "require": {
+        "vaulverin/bracket-validator": "1.0.4"
+    }
+}
